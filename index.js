@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://oo-1.onrender.com";
+var hostURL="https://legendary-lean-pufferfish.glitch.me";
 //TOGGLE for 1pt Proxy and Shorters
 var use1pt=true;
 
